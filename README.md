@@ -4,10 +4,10 @@
 # Hello Word ☕!!!
 
 ##  Sobre mim
-Olá! Sou uma desenvolvedora de software apaixonadoa por criar soluções incríveis. Com experiência em linguagem Java, framework SpringBoot e computação em nuvem
-
+Olá! Sou um(a) desenvolvedor(a) de software com experiência em linguagem Java, framework SpringBoot e computação em nuvem.
 Além disso, tenho a certificação AWS Certified como Cloud Practitioner-Foundation e trago comigo três anos de experiência na área. 
-Meu objetivo é continuar contribuindo para o sucesso dos projetos, impulsionando melhorias na qualidade dos processos, agilidade e modernização.
+<br>
+E, uma curiosidade? Sou formada em Moda!
 
 ## Habilidades
 - Linguagens de programação: Java, Python.
