@@ -1,6 +1,6 @@
 <div display="inline-block">
 
-# Hello Word ☕!!!
+# Hello World ☕!!!
 
 <img align="right" width="300px" style="margin-top:-20px" src="https://github.com/mkimie/mkimie/assets/137451414/e487b3d2-d663-4e9c-a13c-7984e5db59d5">
 
