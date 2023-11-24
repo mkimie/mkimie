@@ -12,8 +12,7 @@ const monique = {
                     title: "Cloud Practitioner - Foundation",
                     certification: "AWS Certification",
                     organization: "Amazon Web Services, Inc" 
-                  }
-                 ],
+                }],
  about_me: "I've always loved writing with colored pens"
 }
 ```
