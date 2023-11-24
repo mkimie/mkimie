@@ -2,8 +2,6 @@
 
 # Hello World ☕!!!
 
-<img align="right" width="300px" style="margin-top:-20px" src="https://github.com/mkimie/mkimie/assets/137451414/e487b3d2-d663-4e9c-a13c-7984e5db59d5">
-
 ## About me
 ```javascript
 const monique = {
@@ -22,8 +20,8 @@ const monique = {
 
 ## GitHub Stats
 <a href="https://github.com/mkimie">
-  <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=mkimie&show_icons=true&theme=dracula">
-  <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkimie&layout=compact&show_icons=true&theme=dracula">
+  <img heigth="190em" src="https://github-readme-stats.vercel.app/api?username=mkimie&show_icons=true&theme=dracula">
+  <img heigth="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkimie&layout=compact&show_icons=true&theme=dracula">
 <br>
 
 ## Technologies 
@@ -33,7 +31,8 @@ const programming = {
   tecnologies: { 
                  code: [Java, Python],
                  frameworks: [SpringBoot],
-                 cloud_computing:[AWS], 
+                 cloud_computing: [AWS],
+                 IA: [IBM® Watson]
                }
 }
 ```
