@@ -31,7 +31,7 @@ const programming = {
                  code: [Java, Python],
                  frameworks: [SpringBoot],
                  cloud_computing: [AWS],
-                 IA: [IBM® Watson]
+                 IA: [IBM® Watson, GitHub Copilot]
                }
 }
 ```
