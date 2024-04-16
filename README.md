@@ -18,12 +18,12 @@ const monique = {
 ```
 
 ## GitHub Stats
-<a href="https://github.com/mkimie">
+<a href="https://github.com/mkimie"></a>
   <img heigth="190em" src="https://github-readme-stats.vercel.app/api?username=mkimie&show_icons=true&theme=dracula">
   <img heigth="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkimie&layout=compact&show_icons=true&theme=dracula">
-<br>
 
 ## Technologies 
+
 ```javascript
 const programming = {
   top_lang: "Java",
@@ -35,6 +35,7 @@ const programming = {
                }
 }
 ```
+
 <div align="center">
   <img height="50" width="60" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
   <img height="50" width="60" alt="SpringBoot" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"/> 
