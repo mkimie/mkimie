@@ -4,7 +4,7 @@
 
 ## About me!
 
-<img align="right" width="260px" style="margin-top:-20px" src="https://github.com/mkimie/mkimie/assets/137451414/0047216b-eb5b-4ec6-b4eb-f07b869456b9">
+<img align="right" width="260em" style="margin-top:-20px" src="https://github.com/mkimie/mkimie/assets/137451414/0047216b-eb5b-4ec6-b4eb-f07b869456b9">
 
 
 ```javascript
