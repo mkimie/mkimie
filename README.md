@@ -1,13 +1,20 @@
 <div display="inline-block">
 
-# Hello World ☕!!!
+# Monique Kimie☕!!!
 
-## About me
+## About me!
+
+<img align="right" width="245px" style="margin-top:-20px" src="https://github.com/mkimie/mkimie/assets/137451414/77b3ec8e-1f61-4d85-be32-bfbeb68f06b7">
+
+
 ```javascript
-const monique = {
+const mkimie = {
   pronouns: "she" | "her",
-  education: "Fashion Business",
-  occupattion: "Software Developer",
+  education: [
+               "Fashion Business",
+               "Software Engineering"
+             ],
+  occupattion: "Software Engineer",
   certificates: [{ 
                     title: "Cloud Practitioner - Foundation",
                     certification: "AWS Certification",
@@ -16,11 +23,14 @@ const monique = {
  about_me: "I've always loved writing with colored pens"
 }
 ```
-
+  
 ## GitHub Stats
+<div align="center">
+  
 <a href="https://github.com/mkimie"></a>
-  <img heigth="190em" src="https://github-readme-stats.vercel.app/api?username=mkimie&show_icons=true&theme=dracula">
+  <img heigth="250em" src="https://github-readme-stats.vercel.app/api?username=mkimie&show_icons=true&theme=dracula">
   <img heigth="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkimie&layout=compact&show_icons=true&theme=dracula">
+</div>
 
 ## Technologies 
 
